@@ -1,15 +1,12 @@
 {
-  "name": "altcampus-assignment",
+  "name": "sample",
   "version": "1.0.0",
+  "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest --passWithNoTests"
-  },
-  "author": "AltCampus",
-  "license": "GNU GPL V3",
-  "dependencies": {
-    "jest": "^26.0.1"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "description": ""
+  "author": "",
+  "license": "ISC"
 }
